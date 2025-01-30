@@ -1,3 +1,13 @@
+![Screenshot (2699)](https://github.com/user-attachments/assets/39375327-7993-409f-8757-da557d0fa224)
+
+
+![Screenshot (2700)](https://github.com/user-attachments/assets/9ab3c3a0-7404-4f8f-a544-1c0f3eb68019)
+
+
+![Screenshot (2702)](https://github.com/user-attachments/assets/6e70fdb6-91e4-46b2-908a-325d3549679b)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -8,7 +18,7 @@ In the project directory, you can run:
 
 ### `npm start`
 
-Runs the app in the development mode.\
+Runs the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
